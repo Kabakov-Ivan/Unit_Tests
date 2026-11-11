@@ -258,6 +258,9 @@ on:
 jobs:
   build-and-test:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: OrdersPractice
 
     steps:
     - name: Checkout code

@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^Set-Location \\.\\\\OrdersPractice; dotnet restore; if \\(\\$\\?\\) \\{ dotnet build --no-restore --configuration Release \\}; if \\(\\$\\?\\) \\{ dotnet test --no-build --configuration Release --verbosity normal \\}$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
