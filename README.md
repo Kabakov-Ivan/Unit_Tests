@@ -1,8 +1,8 @@
 # Практика: unit-тесты на C# (xUnit и Moq)
 
-# OrdersPractice
-
 ![CI](https://github.com/Kabakov-Ivan/Unit_Tests/actions/workflows/ci.yml/badge.svg)
+
+# OrdersPractice
 
 Учебное приложение «Заказы». Тесты на C# (xUnit и Moq)...
 
