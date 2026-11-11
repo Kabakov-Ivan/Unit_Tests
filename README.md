@@ -1,5 +1,11 @@
 # Практика: unit-тесты на C# (xUnit и Moq)
 
+# OrdersPractice
+
+![CI](https://github.com/ВАШ_ЛОГИН/OrdersPractice/actions/workflows/ci.yml/badge.svg)
+
+Учебное приложение «Заказы». Тесты на C# (xUnit и Moq)...
+
 Учебное приложение «Заказы». В нём несколько классов, и ваша задача — покрыть их unit-тестами.
 Один тест уже написан (`OrderTests.Total_TwoItems_ReturnsSum`), остальные пишете вы по его образцу.
 
