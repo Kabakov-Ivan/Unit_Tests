@@ -2,7 +2,7 @@
 
 # OrdersPractice
 
-![CI](https://github.com/ВАШ_ЛОГИН/OrdersPractice/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Kabakov-Ivan/Unit_Tests/actions/workflows/ci.yml/badge.svg)
 
 Учебное приложение «Заказы». Тесты на C# (xUnit и Moq)...
 
